@@ -4,7 +4,7 @@
 // Written by Larry Bank (bitbank@pobox.com)
 // Project started 10/12/2018
 //
-// Modified by ChrHul 10/03/2022
+// Modified by ChrisHul @ github.com 10/03/2022
 // Implementation of SCL stretching, so that slave can stop the transfer
 // for internal processing
 // New directive for optional including Wire library to reduce code

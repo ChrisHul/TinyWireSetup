@@ -6,7 +6,7 @@
 * Composed by 		lucullus
 *
 * Modified by Benoit3 on 18/5/2019 to add multibyte send
-* Modified by ChrHul on 11/03/2022 (major slave op update)
+* Modified by ChrisHul @ github.com on 11/03/2022 (major slave op update)
 *  Enhanced SCL stretching by resetting overflow flag on exit only
 *    also obviates conflict loading overflow counter and releasing
 *    SCL at the same time.

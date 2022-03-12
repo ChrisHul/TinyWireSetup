@@ -1,6 +1,6 @@
 // Bit bang i2c master test program
 // Created to work with attiny slave unit
-// by ChrHul
+// by ChrisHul
 //
 #define _USE_WIRE
 

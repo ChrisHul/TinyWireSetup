@@ -2,7 +2,7 @@
 Working I2c bitbang software with TinyWire slave node
 I2C library setup for ATmega and ATTiny
 --------------------
-Copyright (c) 2022 ChrHul @ github.com
+Copyright (c) 2022 ChrisHul @ github.com
 
 Working library setup using "TinyWire-master" library composed 	by "lucullus" together with Bit Bang I2C library
      developed by Larry Bank.
